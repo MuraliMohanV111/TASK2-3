@@ -5,7 +5,6 @@
 
 ![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/Colorful%20Futuristic%20Technology%20Poster.gif)
 
-Follow me on LinkedIn : www.linkedin.com/in/muralimohanvasagiri
 
 ***This list is continuously updated.*** - You can take pull request and contribute. All Links are tested and working fine. Please ping if any link doesn't work.
 
