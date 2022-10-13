@@ -13,3 +13,12 @@ Cloning has been completed from the Repo.
 
 ![image](https://user-images.githubusercontent.com/106509394/195652778-dc018fc4-bdde-456c-bf41-1108eab66322.png)
 
+Made changes in the main repo and the collabarator has to sync the fork(Update branch) in order to get the latest update.
+
+![image](https://user-images.githubusercontent.com/106509394/195660262-a6f1ea13-2720-4513-894c-61bc76363fe4.png)
+
+
+Changes made from the collaborator can be seen from the main repo.
+
+![image](https://user-images.githubusercontent.com/106509394/195662168-c35e5e6e-4354-45f1-be6e-4eabd52623f1.png)
+
